@@ -10,7 +10,7 @@ tags:
   - bat echolocation
   - environmental factor
   - statistics analysis
-summary: "Analyzing the effects of weather factors on bat activity through ANOVA, generalized linear model, and difference in difference."
+summary: "Analyzing the effects of weather factors on bat activity through ANOVA, negative binomial GLM, and DiD."
 
 # Customize
 share: false
